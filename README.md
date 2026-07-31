@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello, I'm Wey, a student at Nankai University.👋
 
 <!--
 **333wey/333wey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
